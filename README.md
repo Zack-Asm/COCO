@@ -1,6 +1,6 @@
 # COCO
 
-Ce projet est une application de [décris ton projet ici].
+Ce projet est une application de [exemple].
 
 ## Installation
 
